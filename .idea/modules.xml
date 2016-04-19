@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewYear_Operate.iml" filepath="$PROJECT_DIR$/NewYear_Operate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addvalues/addvalues.iml" filepath="$PROJECT_DIR$/addvalues/addvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
